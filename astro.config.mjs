@@ -181,6 +181,7 @@ export default defineConfig({
         "node:url",
         "node:crypto",
         "crypto",
+        "node:async_hooks",
       ],
     },
   },
